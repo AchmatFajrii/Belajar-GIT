@@ -7,3 +7,5 @@ melihat history terbaru = git log
 menyalin repositori (lokal) = git clone "lokasi folder yang mau disalin" (tanpa tanda petik)
 menyalin repositori (dari github) : copy url clone ssh pada github = git clone (paste) 
 melihat nama remote = git remote
+ahhaa
+ahhaha
